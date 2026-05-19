@@ -8,5 +8,5 @@ spec:
       containers:
       - name: hello
         image: busybox
-        command: ["echo", "Hello Hades Charon is calling!"]
+        command: ["echo", "Hello Charon, Hades at home!"]
       restartPolicy: Never
